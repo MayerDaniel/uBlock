@@ -1,0 +1,72 @@
+! 2020-11-05 https://www.nytimes.com
+www.nytimes.com##.css-n7r8pg
+www.nytimes.com##.css-mcm29f
+
+! 2020-11-16 https://affiliatevalley.com
+||affiliatevalley.com/storage/images/banners/yaddebgHvIi9ftoUCpFjdKyo931RWLLPuMg8nznO.gif$image
+affiliatevalley.com##.is_stuck.bb_banners
+affiliatevalley.com##.post-sidebar.btSidebar > .bb_banners
+
+! 2020-11-18 https://www.newyorker.com
+www.newyorker.com###signInContainer
+www.newyorker.com##.unit-overlay
+
+! 2020-11-30 https://www.washingtonpost.com
+www.washingtonpost.com##.fixed.w-100.justify-center.items-center.hide-for-print.flex.bg-black.header-nav.z-7
+www.washingtonpost.com##.overflow-hidden.border-box.w-100.absolute.h-100.grid
+www.washingtonpost.com##.bg-white.justify-center.flex.overflow-hidden.border-box.w-100.left-0.bottom-0.fixed
+www.washingtonpost.com##.right-rail.flex-column.flex.hide-for-print.grid-item--cols-lg-4.mt-md-l.grid-item--cols-md-12.grid-item--cols-sm-12.grid-item
+
+! 2020-12-03 https://www.ft.com
+www.ft.com##.o-banner__outer
+
+! 2020-12-18 https://www.healthline.com
+www.healthline.com##.css-1kj8h1t
+
+! 2020-12-18 https://www.latimes.com
+www.latimes.com##.ensNotifyBanner
+
+! 2021-01-03 https://gimletmedia.com
+gimletmedia.com###persistentPlayerContainer > iframe
+
+! 2021-01-04 https://theoldreader.com
+theoldreader.com##.no-posts.hero-unit
+
+! 2021-01-08 https://best-putlocker.pw
+||best-putlocker.pw/addons/9asdkjmdsaytasdfo.gif$image
+
+! 2021-01-11 https://best-putlocker.pw
+||best-putlocker.pw/addons/asdliode7sdafoljsdflkgfds.gif$image
+||best-putlocker.pw/addons/98asdlasdjaksldjlsd.gif$image
+||best-putlocker.pw/addons/98asdlasdjaksldjlsd.gif$image
+||best-putlocker.pw/addons/98asdlasdjaksldjlsd.gif$image
+||best-putlocker.pw/addons/98asdlasdjaksldjlsd.gif$image
+||best-putlocker.pw/addons/98asdlasdjaksldjlsd.gif$image
+||best-putlocker.pw/addons/98asdlasdjaksldjlsd.gif$image
+||best-putlocker.pw/addons/98asdlasdjaksldjlsd.gif$image
+||best-putlocker.pw/addons/89asdjkdas9asd.gif$image
+
+! 2021-04-17 https://www.facebook.com
+www.facebook.com###u_0_1m_LY
+
+! 2021-04-18 https://www.youtube.com
+www.youtube.com###secondary
+www.youtube.com##ytd-rich-item-renderer
+
+! 2021-04-18 https://www.amazon.com
+www.amazon.com##.cm_cr_grid_center_container.a-row
+www.amazon.com###reviewsMedley > .a-fixed-left-grid-inner
+
+! 2021-04-18 https://www.youtube.com
+www.youtube.com##.ytd-comments.style-scope
+www.youtube.com##.ytp-videowall-still-info-content
+www.youtube.com##.ytp-videowall-still-image
+www.youtube.com##.ytp-ce-covering-overlay
+www.youtube.com##.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-ce-element-show.ytp-ce-video.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-covering-image
+www.youtube.com##.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-ce-element-show.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-expanding-image
+www.youtube.com##.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-expanding-image
+
