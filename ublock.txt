@@ -69,4 +69,4 @@ www.youtube.com##.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-element-show.ytp-c
 www.youtube.com##.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-expanding-image
 www.youtube.com##.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
 www.youtube.com##.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-expanding-image
-
+www.youtube.com##.sbdd_b
