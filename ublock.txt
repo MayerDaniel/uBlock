@@ -70,3 +70,82 @@ www.youtube.com##.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-element-show.ytp-c
 www.youtube.com##.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
 www.youtube.com##.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-expanding-image
 www.youtube.com##.sbdd_b
+
+! 2021-04-23 https://www.youtube.com
+www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
+www.youtube.com###rich-shelf-header
+www.youtube.com##.ytp-endscreen-content
+
+! 2021-04-23 https://papers.ssrn.com
+papers.ssrn.com##.ot-buttons-fw.ot-wo-title.bottom.otFlat
+papers.ssrn.com##.ot-fade-in.onetrust-pc-dark-filter
+
+! 2021-04-23 https://hq.ssrn.com
+hq.ssrn.com##.ot-buttons-fw.ot-wo-title.bottom.otFlat
+hq.ssrn.com##.ot-fade-in.onetrust-pc-dark-filter
+
+! 2021-04-24 https://www.youtube.com
+www.youtube.com###guide-inner-content
+
+! 2021-04-24 https://www.sentinelone.com
+www.sentinelone.com###cookie-message-panel
+
+! 2021-04-24 https://www.amazon.com
+www.amazon.com##.rhf-frame
+www.amazon.com##._shopping-cx-feedback-widget_style_radio-feedback-container__25oqW
+www.amazon.com##.a-cardui
+www.amazon.com###books-entity-teaser
+www.amazon.com###CardInstancesS0NwkctE-ENvYSFpDcLSA
+www.amazon.com###CardInstancezsnc0-kHM8c31dYKexrn9Q
+www.amazon.com###quickPromoBucketContent
+www.amazon.com###heroQuickPromoBooksAtf_feature_div > .a-spacing-medium.a-row
+
+! 2021-04-25 https://www.youtube.com
+www.youtube.com###star-survey
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+
+! 2021-04-28 https://www.traillink.com
+www.traillink.com##div.reveal-overlay:nth-of-type(11)
+www.traillink.com##.large.reveal.register-1
+
+! 2021-05-07 https://seekingalpha.com
+seekingalpha.com##.__6d7e4-2aWrR
+seekingalpha.com##.__2124b-caYQU.__6d7e4-3ZZS-.__6d7e4-3Jnao.__6d7e4-3YVGN.__6d7e4-26Jww.__6d7e4-2O8a_.__2124b-1xoX4.__6d7e4-1DPoq.__6d7e4-1qMpD.__6d7e4-qZydf.__6d7e4-2Z2Qt.__6d7e4-1gE2C
+
+! 2021-05-24 https://www.bbc.com
+www.bbc.com##.e1ia0oo92.ssrcss-k2vwuw-PromoGroupWrapper > .e1y4nx260.ssrcss-1rw2j9a-Stack
+www.bbc.com##.e1ia0oo92.ssrcss-1aqfnou-PromoGroupWrapper > .e1y4nx260.ssrcss-1rw2j9a-Stack
+www.bbc.com##aside.e1ia0oo95.ssrcss-1kczfdm-AsideWrapper:nth-of-type(4)
+
+! 2021-05-25 https://www.youtube.com
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
+
+! 2021-06-14 https://news.ycombinator.com
+news.ycombinator.com###hnmain
+
+! 2021-06-14 https://twitter.com
+twitter.com##.r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > div > div > .r-1ny4l3l.r-1adg3ll.r-qklmqi.r-j7yic.css-1dbjc4n > .css-1dbjc4n
+twitter.com##.r-184en5c.r-13qz1uu.r-1ye8kvj.r-61z16t.r-11wrixw.r-1jgb5lz.r-1phboty.r-13l2t4g.r-1ljd8xs.r-1gm7m50.r-14lw9ot.css-1dbjc4n > .css-1dbjc4n > .r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n
+twitter.com##.r-ttdzmv.r-vacyoi.css-1dbjc4n
+
+! 2021-06-15 https://boards.4channel.org
+boards.4channel.org##.board
+boards.4channel.org###boardNavDesktop
+boards.4channel.org##.boardBanner
+boards.4channel.org##form:nth-of-type(1)
+boards.4channel.org##.center.middlead
+boards.4channel.org###ctrl-top
+boards.4channel.org###boardNavDesktopFoot > .boardList
+boards.4channel.org##.absBotText
+||s.4cdn.org/image/fade-blue.png$image
+||s.4cdn.org/image/fade-blue.png$image
+boards.4channel.org###boardNavDesktopFoot
+boards.4channel.org##.desktop.pagelist
+boards.4channel.org##.desktop.bottomCtrl
+
+! 2021-06-15 https://www.4chan.org
+www.4chan.org###bd
+||s.4cdn.org/image/fp/logo-transparent.png$image
+www.4chan.org###ft
+www.4chan.org##[href="//www.4chan.org/"]
+
